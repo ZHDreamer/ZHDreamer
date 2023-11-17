@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Programing Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,pytorch,rust,haskell,lua,js)](https://skillicons.dev)
+
+My Editors:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,neovim)](https://skillicons.dev)
+
+Other Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,regex,pr,au)](https://skillicons.dev)
