@@ -26,3 +26,5 @@ My Editors:
 Other Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,regex,pr,au)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhdreamer)](https://github.com/anuraghazra/github-readme-stats)
