@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My Programing Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,pytorch,rust,haskell,lua,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,rust,c,cpp,java,haskell,lua,js)](https://skillicons.dev)
 
 My Editors:
 
